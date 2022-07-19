@@ -1,8 +1,0 @@
-#include<Arduino.h>;
-int(p ,q , r ,s);
-
-int(w);
-void seg(int a, int b, int c, int d ,int e, int f){
-        digitalW();
-        digitalW();digitalW();
-
